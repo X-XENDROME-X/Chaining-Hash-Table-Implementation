@@ -9,7 +9,6 @@ This repository contains a C++ implementation of a chaining hash table, along wi
 - [Usage](#usage)
 - [Input Format](#input-format)
 - [Building and Testing](#building-and-testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
