@@ -46,7 +46,8 @@ The input file format should adhere to the following rules:
 4. The number of tokens (N) does not exceed 500.
 
 Example (filename.txt):  
-5  
-Amazon Boeing apple Applebee abandon banana elephant boring barbaric  
+**`5`**  
+**`Amazon Boeing apple Applebee abandon banana elephant boring barbaric`**  
+  
 
 
