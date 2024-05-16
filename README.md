@@ -32,7 +32,7 @@ To use this implementation, follow these steps:
 2. Compile the code using the provided Makefile.
 3. Run the program with a specified input file:
 ```bash
-./encoder < filename.txt
+./encoder < testfilename.txt
 ```
 4. Analyze the output to see the contents of the hash table, slot lengths, and standard deviation.
 
@@ -45,9 +45,25 @@ The input file format should adhere to the following rules:
 3. There are no duplicate tokens in a single input file.
 4. The number of tokens (N) does not exceed 500.
 
-Example (filename.txt):  
+Example (testfilename.txt):  
 **`5`**  
 **`Amazon Boeing apple Applebee abandon banana elephant boring barbaric`**  
+
+## Building and Testing
+
+To build and test the implementation, follow these steps:
+
+1. Use the provided Makefile to compile the code.
+2. Run the program with sample input files or create custom input files for testing:
+```bash
+./encoder < testfilename.txt
+```
+3. Analyze the output to ensure the hash function performs efficiently and the hash table functions correctly.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
   
 
 
