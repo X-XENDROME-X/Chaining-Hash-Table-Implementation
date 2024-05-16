@@ -45,7 +45,8 @@ The input file format should adhere to the following rules:
 3. There are no duplicate tokens in a single input file.
 4. The number of tokens (N) does not exceed 500.
 
-Example (filename.txt): \n
-**`5`** \n
-**`Amazon Boeing apple Applebee abandon banana elephant boring barbaric`** \n
+Example (filename.txt):
+5
+Amazon Boeing apple Applebee abandon banana elephant boring barbaric
+
 
