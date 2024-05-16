@@ -31,7 +31,7 @@ To use this implementation, follow these steps:
 2. Compile the code using the provided Makefile.
 3. Run the program with a specified input file:
 ```bash
-./encoder < testfilename.txt
+./run < testfilename.txt
 ```
 4. Analyze the output to see the contents of the hash table, slot lengths, and standard deviation.
 
@@ -55,7 +55,7 @@ To build and test the implementation, follow these steps:
 1. Use the provided Makefile to compile the code.
 2. Run the program with sample input files or create custom input files for testing:
 ```bash
-./encoder < testfilename.txt
+./run < testfilename.txt
 ```
 3. Analyze the output to ensure the hash function performs efficiently and the hash table functions correctly.
 
