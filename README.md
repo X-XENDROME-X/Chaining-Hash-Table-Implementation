@@ -8,7 +8,6 @@ This repository contains a C++ implementation of a chaining hash table, along wi
 - [Features](#features)
 - [Usage](#usage)
 - [Input Format](#input-format)
-- [Building and Testing](#building-and-testing)
 - [License](#license)
 
 ## Introduction
@@ -56,17 +55,6 @@ Example (testfilename.txt):
 **`elephant`**  
 **`boring`**  
 **`barbaric`**  
-
-## Building and Testing
-
-To build and test the implementation, follow these steps:
-
-1. Use the provided Makefile to compile the code.
-2. Run the program with sample input files or create custom input files for testing:
-```bash
-./run < testfilename.txt
-```
-3. Analyze the output to ensure the hash function performs efficiently and the hash table functions correctly.
 
 ## License
 
